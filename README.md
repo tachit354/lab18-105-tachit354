@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:เตชิต ทั้งเจริฐกุล
+# STUDENT ID:670610354
